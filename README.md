@@ -1,2 +1,4 @@
-# Bating-Platfrom.Tools
-Credits: Google An easytofind Platfrom-Tools.
+# Bating-Platform.Tools
+Credits: Google
+An easy-to-find Platform-Tools repository.
+Download from releases.
